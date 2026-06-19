@@ -14,7 +14,7 @@
 ## Структура проекта
 
 ```text
-project/
+wb_orders_monitor/
 │
 ├── app/
 │   ├── config.py
